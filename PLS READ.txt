@@ -1,0 +1,10 @@
+This is My Project which is a website portfolio 
+Make sure to download all assests in the repository
+
+To do so:
+1. Go to the following link : https://github.com/AlmondBox369/ABOUT-ME
+2. Click on a blue button "CODE" 
+3. Download the zip file
+4. Open the index.html file to access the website
+5. Code for Recent projects have been downloaded along with zip file
+6. Import required modules and run code to enjoy the games.
